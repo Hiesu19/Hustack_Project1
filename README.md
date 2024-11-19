@@ -12,5 +12,8 @@ Các file HTML là các file đề bài trên web "https://hustack.soict.ai/"
 
 
 
-![Logo](https://soict.hust.edu.vn/wp-content/uploads/logo-soict-hust-1-1024x416.png)
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
+###
