@@ -13,7 +13,7 @@ Các file HTML là các file đề bài trên web "https://hustack.soict.ai/"
 
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://soict.hust.edu.vn/wp-content/uploads/logo-soict-hust-1-1024x416.png"  />
 </div>
 
 ###
